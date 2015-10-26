@@ -2,7 +2,6 @@ package chapter15.example;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
-import javafx.event.Event;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -38,7 +37,7 @@ public class AnonymousHandlerDemo extends Application{
             }
         });
 
-        btQuit.setOnAction((ActionEvent e) -> {
+        btQuit.setOnAction((ActionEvent event) -> {
             System.out.println("Process Quit");
         });
 

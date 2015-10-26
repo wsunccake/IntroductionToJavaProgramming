@@ -23,8 +23,8 @@ public class ControlCircleWithMouseAndKey extends Application {
         hBox.getChildren().add(btEnlarge);
         hBox.getChildren().add(btShrink);
 
-        btEnlarge.setOnAction(e -> circlePane.enlarge());
-        btShrink.setOnAction(e -> circlePane.shrink());
+        btEnlarge.setOnAction(event -> circlePane.enlarge());
+        btShrink.setOnAction(event -> circlePane.shrink());
 
         circlePane.setOnMouseClicked(event -> {
             if (event.getButton() == MouseButton.PRIMARY) {
