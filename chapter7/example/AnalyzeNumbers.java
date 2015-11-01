@@ -1,8 +1,5 @@
-package chapter7.exercise;
+package chapter7.example;
 
-/**
- * Created by Tino on 2015/10/31.
- */
 public class AnalyzeNumbers {
     public static void main(String[] args) {
         java.util.Scanner input = new java.util.Scanner(System.in);
@@ -23,7 +20,7 @@ public class AnalyzeNumbers {
         for (int i = 0; i<n; i++)
           if (numbers[i] > average)
             count++;
-        System.out.println("Average is" + average);
-        System.out.println("Number of elements above the average is" + count);
+        System.out.println("Average is " + average);
+        System.out.println("Number of elements above the average is " + count);
    }
 }

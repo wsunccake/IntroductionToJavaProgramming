@@ -1,4 +1,4 @@
-package chapter7.exercise;
+package chapter7.example;
 
 public class LinearSearch {
     public static int linearSearch(int[] list, int key) {

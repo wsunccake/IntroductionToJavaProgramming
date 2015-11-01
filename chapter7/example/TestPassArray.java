@@ -1,8 +1,5 @@
-package chapter7.exercise;
+package chapter7.example;
 
-/**
- * Created by Tino on 2015/11/1.
- */
 public class TestPassArray {
     /** Main method*/
     public static void main(String[] args) {
