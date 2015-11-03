@@ -1,4 +1,4 @@
-package chapter7.exercise;
+package chapter7.example;
 
 public class BinarySearch {
     public static int binarySearch(int[] list, int key) {

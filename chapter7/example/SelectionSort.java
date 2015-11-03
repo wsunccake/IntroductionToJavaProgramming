@@ -1,4 +1,4 @@
-package chapter7.exercise;
+package chapter7.example;
 
 public class SelectionSort {
     public static void selectionSort(double[] list) {
