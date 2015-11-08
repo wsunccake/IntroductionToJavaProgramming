@@ -1,0 +1,4 @@
+請開啟JDD04.java檔案，透過JDBC連結Microsoft Access 資料庫。 
+可於視窗中一筆一筆瀏覽Students資料表內的學生資料，請依下列題意完成作答。
+將JDD04.java內的class JDA04 修改成 class JDA04，且檔案另存成JDA04.java後編譯為JDA04.class，
+所有題目中用到的類別也請編譯後一並儲存。
