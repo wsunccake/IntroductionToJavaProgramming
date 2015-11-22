@@ -1,8 +1,7 @@
+package chapter8.example;
+
 import java.util.Scanner;
 
-/**
- * Created by Casey on 2015/11/1.
- */
 public class Weather {
     public static void main(String[] args) {
         final int NUMBER_OF_DAYS = 10;

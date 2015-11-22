@@ -1,8 +1,7 @@
+package chapter8.example;
+
 import java.util.Scanner;
 
-/**
- * Created by Casey on 2015/11/1.
- */
 public class GuessBirthdayUsingArray {
     public static void main(String[] args) {
         int day = 0; // Day to be determined
