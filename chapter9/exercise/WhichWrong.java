@@ -1,8 +1,5 @@
 package chapter9.exercise;
 
-/**
- * Created by chen on 2015/11/24.
- */
 public class WhichWrong {
     int i = 5;
     static int k = 2;

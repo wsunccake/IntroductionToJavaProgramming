@@ -1,8 +1,5 @@
 package charpter11.example;
 
-/**
- * Created by chen on 2015/12/8.
- */
 public class CastingDemo {
     public static void main(String[] args) {
         Object object1 = new CircleFromSimpleGeometricObject(1);

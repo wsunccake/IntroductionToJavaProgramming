@@ -1,8 +1,5 @@
 package charpter11.example;
 
-/**
- * Created by chen on 2015/12/8.
- */
 public class DynamicBindingDemo {
     public static void main(String[] args) {
         m(new GraduateStudent());
