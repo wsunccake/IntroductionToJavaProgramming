@@ -1,19 +1,15 @@
 package chapter9.exercise;
 
-class Test {
+public class Test {
+    public int factorial (int n) {
+        int result = 1;
+        for (int i = 1; i<= n ; i++)
+            result *=i;
+        return result;
+    }
+
     public static void main(String[] args) {
-        A a = new A("aaa");
-    }
-}
-
-class A {
-    String s;
-
-    A(String newS) {
-        s = newS;
-    }
-
-    public void print() {
-        System.out.print(s);
+         Test a = new Test();
+         a.factorial(3);
     }
 }

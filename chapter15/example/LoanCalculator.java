@@ -1,6 +1,6 @@
 package chapter15.example;
 
-import chapter10.example.Loan;
+import chapter10.example.example.Loan;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
