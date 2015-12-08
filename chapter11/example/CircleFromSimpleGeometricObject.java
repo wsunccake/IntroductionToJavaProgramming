@@ -1,7 +1,6 @@
 package chapter11.example;
 
-
-class CircleFromSimpleGeometricObject
+public class CircleFromSimpleGeometricObject
         extends SimpleGeometricObject{
     private double radius;
     public CircleFromSimpleGeometricObject() {
