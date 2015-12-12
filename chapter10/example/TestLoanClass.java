@@ -1,4 +1,4 @@
-package chapter10.example.example;
+package chapter10.example;
 
 import java.util.Scanner;
 public class TestLoanClass {

@@ -1,4 +1,4 @@
-package chapter10.example.example;
+package chapter10.example;
 
 public class Loan {
     private double annualInterestRate;
